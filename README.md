@@ -157,5 +157,8 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 - **OpenWeatherMap**: For providing the weather data API.
 
+---
+The conversation continues on [Kaggle](https://www.kaggle.com/code/mrowurakwarteng/weather-data-analysis)
+
 
 ---
