@@ -12,7 +12,7 @@ import seaborn as sns
 import matplotlib.dates as mdates
 
 # Define and extract data
-api_key = 'b12bdd0e1111a3fc221e7775a8820cab'
+api_key = '<>'
 city = 'Boston'
 base_url = 'http://api.openweathermap.org/data/2.5/forecast'
 url = f"{base_url}?q={city}&appid={api_key}&units=metric"
